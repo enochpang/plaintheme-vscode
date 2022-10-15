@@ -1,0 +1,57 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Plain Theme",
+	"semanticHighlighting": true,
+	"colors": {
+		"focusBorder": "#5794d0",
+		"input.background": "#f2e6d4",
+		"input.foreground": "#303338",
+		"dropdown.background": "#fff7ed",
+		"button.background": "#8d9741",
+		"list.activeSelectionBackground": "#5794d0",
+		"list.activeSelectionForeground": "#303338",
+		"list.hoverBackground": "#fffdfb",
+		"list.inactiveSelectionBackground": "#f2e6d4",
+		"editor.background": "#fff7ed",
+		"editor.foreground": "#8f8f8f",
+		"editorIndentGuide.background": "#bebebe",
+		"editorIndentGuide.activeBackground": "#8f8f8f",
+		"editorLineNumber.foreground": "#bebebe",
+		"editorGroupHeader.tabsBackground": "#f2e6d4",
+		"titleBar.activeBackground": "#fff7ed",
+		"tab.border": "#bebebe",
+		"tab.activeBackground": "#fff7ed",
+		"tab.inactiveBackground": "#f2e6d4",
+		"activityBar.background": "#f2e6d4",
+		"activityBar.foreground": "#303338",
+		"sideBar.background": "#fff7ed",
+		"sideBar.border": "#bebebe",
+		"statusBar.foreground": "#636363",
+		"statusBar.background": "#f2e6d4",
+		"statusBar.debuggingBackground": "#f2e6d4",
+		"statusBar.noFolderBackground": "#f2e6d4",
+		"statusBarItem.remoteBackground": "#8d9741",
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": { "foreground": "#bc73a4" }
+		},
+		{
+			"scope": "string",
+			"settings": { "foreground": "#47a477" }
+		},
+		{
+			"scope": "constant",
+			"settings": { "foreground": "#9481cc" }
+		},
+		{
+			"scope": "keyword",
+			"settings": { "foreground": "#00a2af" }
+		},
+		{
+			"scope": "support.type",
+			"settings": { "foreground": "#8d9741" }
+		}
+	]
+}
