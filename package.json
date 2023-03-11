@@ -1,0 +1,23 @@
+{
+  "name": "plain-theme",
+  "displayName": "Plain Theme",
+  "description": "Minimal Visual Studio Code theme",
+  "version": "0.1.0",
+  "publisher": "enochpang",
+  "homepage": "https://github.com/enochpang/plaintheme-vscode",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Plain Light",
+        "uiTheme": "vs",
+        "path": "./themes/plain-light-theme.json"
+      }
+    ]
+  }
+}

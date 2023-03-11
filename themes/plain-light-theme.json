@@ -1,0 +1,45 @@
+// BG:      fbf8f1
+// FG:      75756e
+// Red:     d15b60
+// Orange:  bf6e3e
+// Yellow:  97871d
+// Green:   2a9667
+// Cyan:    2a9cae
+// Blue:    488acb
+// Purple:  8678c9
+// Magenta: b6679d
+
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Plain Light Theme",
+    "colors": {
+        "editor.background": "#fbf8f1",
+        "editor.foreground": "#75756e",
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": { "foreground": "#bf6e3e" }
+        },
+        {
+            "scope": "string",
+            "settings": { "foreground": "#2a9667" }
+        },
+        {
+            "scope": "constant",
+            "settings": { "foreground": "#8678c9" }
+        },
+        {
+            "scope": "keyword",
+            "settings": { "foreground": "#488acb" }
+        },
+        {
+            "scope": "storage",
+            "settings": { "foreground": "#488acb" }
+        },
+        {
+            "scope": "entity.name.type",
+            "settings": { "foreground": "#2a9cae" }
+        }
+    ]
+}
