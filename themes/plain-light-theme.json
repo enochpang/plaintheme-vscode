@@ -40,6 +40,10 @@
         {
             "scope": "entity.name.type",
             "settings": { "foreground": "#2a9cae" }
+        },
+        {
+            "scope": "support.type",
+            "settings": { "foreground": "#2a9cae" }
         }
     ]
 }
