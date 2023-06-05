@@ -1,20 +1,9 @@
-// BG:      fbf8f1
-// FG:      75756e
-// Red:     d15b60
-// Orange:  bf6e3e
-// Yellow:  97871d
-// Green:   2a9667
-// Cyan:    2a9cae
-// Blue:    488acb
-// Purple:  8678c9
-// Magenta: b6679d
-
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Plain Light Theme",
     "colors": {
-        "editor.background": "#fbf8f1",
-        "editor.foreground": "#75756e",
+        "editor.background": "#fefcf4",
+        "editor.foreground": "#716e68",
     },
     "tokenColors": [
         {
@@ -23,27 +12,27 @@
         },
         {
             "scope": "string",
-            "settings": { "foreground": "#2a9667" }
+            "settings": { "foreground": "#339c6d" }
         },
         {
             "scope": "constant",
-            "settings": { "foreground": "#8678c9" }
+            "settings": { "foreground": "#9274c3" }
         },
         {
             "scope": "keyword",
-            "settings": { "foreground": "#488acb" }
+            "settings": { "foreground": "#338fc7" }
         },
         {
             "scope": "storage",
-            "settings": { "foreground": "#488acb" }
+            "settings": { "foreground": "#338fc7" }
         },
         {
             "scope": "entity.name.type",
-            "settings": { "foreground": "#2a9cae" }
+            "settings": { "foreground": "#04a3aa" }
         },
         {
             "scope": "support.type",
-            "settings": { "foreground": "#2a9cae" }
+            "settings": { "foreground": "#04a3aa" }
         }
     ]
 }
