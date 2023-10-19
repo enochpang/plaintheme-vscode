@@ -2,7 +2,7 @@
 
 ```
 |            | Hex    | Lightness| Chroma | Hue |
-| Background | fefcf4 | 98       | 0.01   | 90  |
+| Background | fbf8f1 | 98       | 0.01   | 90  |
 | Foreground | 716e68 | 54       | 0.01   | 90  |
 | Red        | d15b60 | 62       | 0.15   | 20  |
 | Orange     | bf6e3e | 62       | 0.12   | 50  |

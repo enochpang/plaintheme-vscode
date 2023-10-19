@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "Plain Light Theme",
     "colors": {
-        "editor.background": "#fefcf4",
+        "editor.background": "#fbf8f1",
         "editor.foreground": "#716e68",
     },
     "tokenColors": [
