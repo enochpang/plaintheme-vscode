@@ -2,9 +2,10 @@
   "name": "plain-theme",
   "displayName": "Plain Theme",
   "description": "Minimal Visual Studio Code theme",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "enochpang",
-  "homepage": "https://github.com/enochpang/plaintheme-vscode",
+  "repository": "https://github.com/enochpang/plaintheme-vscode",
+  "license": "MPL-2.0",
   "engines": {
     "vscode": "^1.72.0"
   },
