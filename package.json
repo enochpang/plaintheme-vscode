@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "enochpang",
   "repository": "https://github.com/enochpang/plaintheme-vscode",
+  "author": "Enoch Pang",
   "license": "MPL-2.0",
   "engines": {
     "vscode": "^1.72.0"
