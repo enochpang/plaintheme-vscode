@@ -3,36 +3,32 @@
     "name": "Plain Light Theme",
     "colors": {
         "editor.background": "#fbf8f1",
-        "editor.foreground": "#716e68",
+        "editor.foreground": "#65635d"
     },
     "tokenColors": [
         {
             "scope": "comment",
-            "settings": { "foreground": "#bf6e3e" }
+            "settings": { "foreground": "#bc7533" }
         },
         {
             "scope": "string",
-            "settings": { "foreground": "#339c6d" }
+            "settings": { "foreground": "#2c9768" }
         },
         {
             "scope": "constant",
-            "settings": { "foreground": "#9274c3" }
+            "settings": { "foreground": "#9577c7" }
         },
         {
             "scope": "keyword",
-            "settings": { "foreground": "#338fc7" }
+            "settings": { "foreground": "#308dc5" }
         },
         {
             "scope": "storage",
-            "settings": { "foreground": "#338fc7" }
-        },
-        {
-            "scope": "entity.name.type",
-            "settings": { "foreground": "#04a3aa" }
+            "settings": { "foreground": "#308dc5" }
         },
         {
             "scope": "support.type",
-            "settings": { "foreground": "#04a3aa" }
+            "settings": { "foreground": "#00969d" }
         }
     ]
 }
